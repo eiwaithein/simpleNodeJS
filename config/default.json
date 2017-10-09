@@ -1,0 +1,21 @@
+{
+    "dbconfig": {
+        "host": "localhost",
+        "port": "27277", //Local: 27017 || Server: 27277
+        "username": "",
+        "password": "",
+        "dbname": "babygalaxydb",
+        "bname": "raghu",
+        "bpass": "raghu1"
+    },
+    "common": {
+        "api_url": "http://stage2.22feetlabs.com:9988",
+        "api_version": "1",
+        "allowed_app_version": "1.0.0",
+        "api_base_url": "http://stage2.22feetlabs.com:9988/api/v1/"
+    },
+    "uploads": {
+        "profileUploadPath": "public/uploads/profile",
+        "profileImgURL": "http://stage2.22feetlabs.com:9988/uploads/profile/"
+    }
+}
